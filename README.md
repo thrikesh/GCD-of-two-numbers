@@ -33,6 +33,6 @@ def gcd():
 ```
 
 ## Output:
-<br>![output](./ex2b(p).png)
+<br>![output](./ex2(a)(p).png)
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
